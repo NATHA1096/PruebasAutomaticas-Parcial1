@@ -1,0 +1,7 @@
+Todoist/E2E/node_modules
+Todoist/E2E/Cypress/fixtures
+Todoist/E2E/Cypress/plugins
+Todoist/E2E/Cypress/support
+Todoist/E2E/Cypress/videos
+Todoist/E2E/package-lock.json
+Todoist/E2E/package.json
